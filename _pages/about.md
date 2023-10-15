@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Liang "Charles" Lyu, a third-year PhD student at Massachusetts Institute of Technology (MIT), in the Laboratory for Information and Decision Systems (LIDS) within the Department of Electrical Engineering and Computer Science (EECS). I am advised by [Asu Ozdaglar](https://asu.mit.edu/) and [Dan Huttenlocher](https://web.mit.edu/hutt/www/).
+I am Liang "Charles" Lyu, a third-year PhD student at Massachusetts Institute of Technology (MIT), in the Laboratory for Information and Decision Systems (LIDS) within the Department of Electrical Engineering and Computer Science (EECS). I am advised by Professors [Asu Ozdaglar](https://asu.mit.edu/) and [Dan Huttenlocher](https://web.mit.edu/hutt/www/).
 
-Previously, I graduated from Duke University in 2020 with a B.S. degree in Computer Science and Mathematics, where I worked with [Kamesh Munagala](https://www.kameshmunagala.org/) and [Brandon Fain](https://sites.duke.edu/btfain/).
+Previously, I graduated from Duke University in 2020 with a B.S. degree in Computer Science and Mathematics, where I worked with Professors [Kamesh Munagala](https://www.kameshmunagala.org/) and [Brandon Fain](https://sites.duke.edu/btfain/).
 
-The latest copy of my CV is available [here](<http://liang-charles-lyu.github.io/files/CV_Liang Lyu_Apr 2023.pdf>) (updated April 2023).
+[Here](<http://liang-charles-lyu.github.io/files/CV_Liang Lyu_Apr 2023.pdf>) is my latest CV (updated April 2023).
 
 
 # This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
