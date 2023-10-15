@@ -26,8 +26,8 @@ Previously, I have also worked on algorithmic fairness in contexts such as clust
 
 Email: lianglyu at mit.edu
 
-Address:
-77 Massachusetts Avenue, Room 32-D640
+Address:  
+77 Massachusetts Avenue, Room 32-D640  
 Cambridge, MA 02139
 
 ## Notes about my name
@@ -35,3 +35,5 @@ Cambridge, MA 02139
 [This video](https://www.youtube.com/watch?v=lzDrUuIZpYk) shows the accurate pronunciation of my last name. However, I am fine with the more common pronunciation that's akin to "liu" or "lew", which 99% of people (regardless of nationality) will pronounce it as on their first try.
 
 Feel free to call me Charles whenever possible.
+
+*This website is last updated on October 15, 2023.*
