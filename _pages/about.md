@@ -12,7 +12,7 @@ I am Liang "Charles" Lyu, a third-year PhD student at Massachusetts Institute of
 
 Previously, I graduated from Duke University in 2020 with a B.S. degree in Computer Science and Mathematics, where I worked with Professors [Kamesh Munagala](https://www.kameshmunagala.org/) and [Brandon Fain](https://sites.duke.edu/btfain/).
 
-[Here](<http://liang-charles-lyu.github.io/files/CV_Liang Lyu_Nov 2023.pdf>) is my latest CV (updated April 2023).
+[Here](<http://liang-charles-lyu.github.io/files/CV_Liang Lyu_Nov 2023.pdf>) is my latest CV (updated November 2023).
 
 ## Research Interests
 
