@@ -16,7 +16,7 @@ Previously, I graduated from Duke University in 2020 with a B.S. degree in Compu
 
 ## Research Interests
 
-My research revolves around the impacts of algorithms on humans and society. Currently, my focus is on understanding social media, namely the interactions between platforms, users, creators and content, and the effects of platform decisions on behaviors of human agents. I also aim to analyze how such interplays can contribute to potentially undesirable impacts such the spread of misinformation, and develop algorithmic solutions to mitigate them.
+My research revolves around the impacts of algorithms on humans and society. Currently, my focus is on understanding social media, namely the interactions between platforms, users, creators and content, and the effects of platform decisions on behaviors of human agents. I also aim to analyze how such interplays can contribute to potentially undesirable impacts such as the spread of misinformation, and develop algorithmic solutions to mitigate them.
 
 I employ a mix of theoretical and empirical approaches in understanding these issues. On one hand, I develop models that capture the behavior of humans and algorithms. My interests and technical machinery on this front broadly relate to theoretical computer science, game theory and operations research. On the other hand, I also conduct empirical and experimental studies on real-world social media platforms to analyze data and measure human behavior, both to calibrate our models and to observe their applicability in practice.
 
