@@ -11,7 +11,7 @@ Dynamic Matching of Users and Creators on Social Media Platforms.
 
 * With Daniel Huttenlocher, Hannah Li, Asuman Ozdaglar, and James Siderius.
 
-* *A draft of this paper is coming soon. Email me for more info.*
+* *Submitting soon to Operations Research. A draft of this paper is coming soon. Email me for more info.*
 
 ## Other Ongoing Projects
 
