@@ -7,21 +7,29 @@ author_profile: true
 
 ## Working Papers
 
-Dynamic Matching of Users and Creators on Social Media Platforms.
+Matching of Users and Creators in Two-Sided Markets with Departures. [(arXiv)](https://arxiv.org/abs/2401.00313)
 
-* With Daniel Huttenlocher, Hannah Li, Asuman Ozdaglar, and James Siderius.
+* Daniel Huttenlocher, Hannah Li, **Liang Lyu** *(corresponding author)*, Asuman Ozdaglar, and James Siderius.
 
-* *Submitting soon to Operations Research. A draft of this paper is coming soon. Email me for more info.*
+* *Submitting soon to EC 2024 and Operations Research.*
+
+* *Previously appeared as: Dynamic Matching of Users and Creators on Social Media Platforms.*
+
+Generative AI in the Era of “Alternative Facts”. [(Current Version)](<http://liang-charles-lyu.github.io/files/drafts/GenAI_Misinformation_Jan 2024.pdf>)
+
+* Saadia Gabriel, **Liang Lyu**, James Siderius, Marzyeh Ghassemi, Jacob Andreas, Asu Ozdaglar.
+
+* To appear at MIT Impact Papers on Generative AI series.
 
 ## Other Ongoing Projects
-
-An Experiment on Algorithmic Ranking: User Behavior, Platform Incentives, and Policy.
-
-* With Daniel Huttenlocher, Asuman Ozdaglar, and James Siderius.
 
 Misinformation Online to Offline: A Twitter Field Study.
 
 * With Daron Acemoglu, Adam Berinsky, Asuman Ozdaglar, and James Siderius.
+
+An Experiment on Algorithmic Ranking: User Behavior, Platform Incentives, and Policy.
+
+* With Daniel Huttenlocher, Asuman Ozdaglar, and James Siderius.
 
 ## Previous Work
 
