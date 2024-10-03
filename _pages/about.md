@@ -36,4 +36,4 @@ Cambridge, MA 02139
 
 Feel free to call me Charles whenever possible.
 
-*This website is last updated on October 2, 2024.*
+*This website was last updated on October 2, 2024.*
