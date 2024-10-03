@@ -5,23 +5,31 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+## Publications
 
-Matching of Users and Creators in Two-Sided Markets with Departures. [(arXiv)](https://arxiv.org/abs/2401.00313)
-
-* Daniel Huttenlocher, Hannah Li, **Liang Lyu** *(corresponding author)*, Asuman Ozdaglar, and James Siderius.
-
-* *Submitting soon to EC 2024 and Operations Research.*
-
-* *Previously appeared as: Dynamic Matching of Users and Creators on Social Media Platforms.*
-
-Generative AI in the Era of “Alternative Facts”. [(Current Version)](<http://liang-charles-lyu.github.io/files/drafts/GenAI_Misinformation_Jan 2024.pdf>)
+[1] Generative AI in the Era of “Alternative Facts”. [(Link)](https://mit-genai.pubpub.org/pub/cnks7gwl/release/1)
 
 * Saadia Gabriel, **Liang Lyu**, James Siderius, Marzyeh Ghassemi, Jacob Andreas, Asu Ozdaglar.
 
-* To appear at MIT Impact Papers on Generative AI series.
+* Accepted to the 2024 conference on Empirical Methods in Natural Language Processing (EMNLP 2024).
+
+[2] Matching of Users and Creators in Two-Sided Markets with Departures. [(arXiv)](https://arxiv.org/abs/2401.00313)
+
+* Daniel Huttenlocher, Hannah Li, **Liang Lyu** *(corresponding author)*, Asuman Ozdaglar, and James Siderius.
+
+* ArXiv preprint (2023). To be submitted to Operations Research in the future.
+
+* *Previously appeared as: Dynamic Matching of Users and Creators on Social Media Platforms.*
 
 ## Other Ongoing Projects
+
+Influencer Advertising and Matching: A Model Inspired by TikTok Content Creators.
+
+* With Gary Qiurui Ma.
+
+Examining the Impacts of ChatGPT on Wikipedia Activity.
+
+* With Daron Acemoglu, Daniel Huttenlocher, Hannah Li, Asuman Ozdaglar, and James Siderius
 
 Misinformation Online to Offline: A Twitter Field Study.
 
